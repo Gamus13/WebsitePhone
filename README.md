@@ -1,5 +1,5 @@
 Documentation du dépôt GitHub WebsitePhone
-Description
+Description :
 ceci est un brief sur un projet de site vitrine pour vente de smartphone utilisant la stack : html , css , threejs
 
 Table des matières
@@ -17,7 +17,9 @@ Utilisation
 -pour captiver l'attention des utilisateurs
 
 Configuration
-- Aucune configuration n'est necessaire juste suivre les etapes d'installation.
+- cliquer sur le lien gamus13.github.io/WebsitePhone/
+- vous aller obtenir une page d'erreur cliquer sur le bouton Details
+- cliquer sur le lien  consulter ce site dangereux. vous serez rediriger vers le projet
 
 Contribuer
 - Gamus13
